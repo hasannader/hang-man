@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1653488071 source:c:\users\bluray\onedrive\desktop\c codes\c\hangman_last\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1653668011 source:c:\users\bluray\onedrive\desktop\new folder (2)\c codes2\c\hangman_last\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

@@ -1,0 +1,4 @@
+https://github.com/tintinmj/Hangman-game/blob/master/game.c
+
+https://www.b4x.com/android/forum/threads/hangman-tutorial-part-1.32893/#post-191861
+
